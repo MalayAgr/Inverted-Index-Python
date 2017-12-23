@@ -1,17 +1,20 @@
 import os
+import csv
+from functools import reduce
 
 #TODO - Optimizations
 #TODO - decrease for loops used somehow
 #TODO - try applying map and reduce
 #TODO - make directory user-selected
+#TODO - use CSV file
 
 
-def createDictionary():
+def createDictionary(directory):
 
     wordsAdded = {}
     cwd = os.getcwd()
-    os.chdir('G:\\Coding\\Python\\Inverted Index\\text-files')
-    fileList = os.listdir(os.getcwd())
+    os.chdir(directory)
+    fileList = os.listdir(directory)
 
     for file in fileList:
 
@@ -24,25 +27,31 @@ def createDictionary():
                 if word[-1] in [',', '!', '?', '.']:
                     word = word[:-1]
                 if word not in wordsAdded.keys():
-                    wordsAdded[word] = [f.name]
-
+                    wordsAdded[word] = {}
+                    wordsAdded[word]['fileNames'] = [f.name]
+                    wordsAdded[word]['filePaths'] = [(directory[:-1] if directory[-1] == '\\' else directory) + "\\" + f'{f.name}']
                 else:
-                    if file not in wordsAdded[word]:
-                        wordsAdded[word] += [f.name]
+                    if file not in wordsAdded[word]['fileNames']:
+                        wordsAdded[word]['fileNames'] += [f.name]
+                        wordsAdded[word]['filePaths'] += [(directory[:-1] if directory[-1] == '\\' else directory) + "\\" + f'{f.name}']
 
-    return wordsAdded, cwd
-
-
-def writeToFile(words, cwd):
     os.chdir(cwd)
-    with open('index-file.txt', 'w') as indexFile:
-
-        for word, files in words.items():
-            indexFile.write(word + " ")
-            for file in files:
-                indexFile.write(file[:file.find(".txt")] + " ")
-
-            indexFile.write(f'{len(files)}\n')
+    return wordsAdded
 
 
-writeToFile(*createDictionary())
+def writeToFile(words):
+    with open('index-file.csv', 'w') as indexFile:
+        fieldNames = ['word', 'fileNames', 'filePaths']
+        csvWriter = csv.DictWriter(indexFile, fieldnames= fieldNames)
+
+        csvWriter.writeheader()
+
+        for word, fileDetails in words.items():
+            fileNameString = reduce(lambda x, y: x + ", " + y, fileDetails['fileNames'])
+            filePathString = reduce(lambda  x, y: x + ", " + y, fileDetails['filePaths'])
+            csvWriter.writerow({'word': word, 'fileNames': fileNameString, 'filePaths': filePathString})
+
+
+
+directory = input("Enter the directory whose files you'd like to index: ")
+writeToFile(createDictionary(directory))
