@@ -5,8 +5,6 @@ from functools import reduce
 #TODO - Optimizations
 #TODO - decrease for loops used somehow
 #TODO - try applying map and reduce
-#TODO - make directory user-selected
-#TODO - use CSV file
 
 
 def createDictionary(directory):
