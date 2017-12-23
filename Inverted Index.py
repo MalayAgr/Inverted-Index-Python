@@ -1,5 +1,10 @@
 import os
 
+#TODO - Optimizations
+#TODO - decrease for loops used somehow
+#TODO - try applying map and reduce
+#TODO - make directory user-selected
+
 
 def createDictionary():
 
