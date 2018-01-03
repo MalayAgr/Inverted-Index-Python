@@ -3,7 +3,6 @@ import csv
 from functools import reduce
 import time
 
-#TODO - Optimizations
 #TODO - decrease for loops used somehow
 #TODO - try applying map and reduce
 
