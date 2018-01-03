@@ -1,151 +1,152 @@
 word,fileNames,filePaths
-lorem,"file1.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-ipsum,"file1.txt, file3.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-dolor,"file1.txt, file2.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-sit,"file1.txt, file3.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-amet,"file1.txt, file3.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-consectetur,"file1.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-adipiscing,file1.txt,G:\Coding\Python\Inverted Index\text-files\file1.txt
-elit,"file1.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-nunc,"file1.txt, file2.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-accumsan,file1.txt,G:\Coding\Python\Inverted Index\text-files\file1.txt
-arcu,"file1.txt, file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-porttitor,file1.txt,G:\Coding\Python\Inverted Index\text-files\file1.txt
-elementum,"file1.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
-tortor,"file1.txt, file2.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file2.txt"
-a,"file1.txt, file2.txt, file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-aliquet,"file1.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
-mauris,"file1.txt, file2.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
 aenean,file1.txt,G:\Coding\Python\Inverted Index\text-files\file1.txt
-dignissim,"file1.txt, file2.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file2.txt"
-semper,"file1.txt, file2.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file2.txt"
-rhoncus,"file1.txt, file3.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt"
-enim,"file1.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-nec,"file1.txt, file2.txt, file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-odio,"file1.txt, file2.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-suscipit,file1.txt,G:\Coding\Python\Inverted Index\text-files\file1.txt
-eleifend,"file1.txt, file3.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
-integer,"file1.txt, file2.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
+aliquet,"file1.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
 condimentum,file1.txt,G:\Coding\Python\Inverted Index\text-files\file1.txt
-ligula,"file1.txt, file2.txt, file3.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt"
-scelerisque,"file1.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+adipiscing,file1.txt,G:\Coding\Python\Inverted Index\text-files\file1.txt
+elementum,"file1.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
 molestie,"file1.txt, file3.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt"
-lacus,"file1.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
-ut,"file1.txt, file2.txt, file3.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
-tincidunt,"file1.txt, file2.txt, file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-quam,"file1.txt, file2.txt, file3.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
-class,"file1.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-aptent,"file1.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-taciti,"file1.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-sociosqu,"file1.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-ad,"file1.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-litora,"file1.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-torquent,"file1.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
 per,"file1.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
 conubia,"file1.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+class,"file1.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
 nostra,"file1.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-inceptos,"file1.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-himenaeos,"file1.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-sed,"file1.txt, file2.txt, file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-malesuada,file1.txt,G:\Coding\Python\Inverted Index\text-files\file1.txt
+sit,"file1.txt, file3.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+rhoncus,"file1.txt, file3.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt"
 egestas,"file1.txt, file3.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-urna,"file1.txt, file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-dictum,"file1.txt, file3.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+integer,"file1.txt, file2.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
+scelerisque,"file1.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+a,"file1.txt, file2.txt, file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+lorem,"file1.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+arcu,"file1.txt, file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+torquent,"file1.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+elit,"file1.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+eleifend,"file1.txt, file3.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
 congue,file1.txt,G:\Coding\Python\Inverted Index\text-files\file1.txt
+consectetur,"file1.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+himenaeos,"file1.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+ut,"file1.txt, file2.txt, file3.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
+sed,"file1.txt, file2.txt, file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+dignissim,"file1.txt, file2.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file2.txt"
+inceptos,"file1.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+urna,"file1.txt, file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+accumsan,file1.txt,G:\Coding\Python\Inverted Index\text-files\file1.txt
+malesuada,file1.txt,G:\Coding\Python\Inverted Index\text-files\file1.txt
 lectus,"file1.txt, file2.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-in,"file1.txt, file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+odio,"file1.txt, file2.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+suscipit,file1.txt,G:\Coding\Python\Inverted Index\text-files\file1.txt
+amet,"file1.txt, file3.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+ligula,"file1.txt, file2.txt, file3.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt"
+aptent,"file1.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+taciti,"file1.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+quam,"file1.txt, file2.txt, file3.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
+mauris,"file1.txt, file2.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+dictum,"file1.txt, file3.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
 nulla,"file1.txt, file2.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-porta,"file2.txt, file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+semper,"file1.txt, file2.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file2.txt"
+dolor,"file1.txt, file2.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+ipsum,"file1.txt, file3.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+tincidunt,"file1.txt, file2.txt, file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+nec,"file1.txt, file2.txt, file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+ad,"file1.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+litora,"file1.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+in,"file1.txt, file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+sociosqu,"file1.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+enim,"file1.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+tortor,"file1.txt, file2.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file2.txt"
+lacus,"file1.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
+porttitor,file1.txt,G:\Coding\Python\Inverted Index\text-files\file1.txt
+nunc,"file1.txt, file2.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file1.txt, G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+eu,"file2.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+varius,file2.txt,G:\Coding\Python\Inverted Index\text-files\file2.txt
+felis,file2.txt,G:\Coding\Python\Inverted Index\text-files\file2.txt
+tellus,"file2.txt, file3.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt"
+massa,"file2.txt, file3.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt"
+sagittis,file2.txt,G:\Coding\Python\Inverted Index\text-files\file2.txt
+ornare,"file2.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+duis,"file2.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+est,"file2.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
+consequat,"file2.txt, file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
 nam,"file2.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
 tempus,"file2.txt, file3.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt"
-bibendum,"file2.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
-pellentesque,"file2.txt, file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-erat,"file2.txt, file3.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt"
-sagittis,file2.txt,G:\Coding\Python\Inverted Index\text-files\file2.txt
-sollicitudin,"file2.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
-consequat,"file2.txt, file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-sapien,"file2.txt, file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-lobortis,"file2.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
-felis,file2.txt,G:\Coding\Python\Inverted Index\text-files\file2.txt
-interdum,"file2.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-efficitur,"file2.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-orci,"file2.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-fermentum,"file2.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-nullam,"file2.txt, file3.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt"
-pharetra,"file2.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-ex,"file2.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
-vehicula,"file2.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-imperdiet,"file2.txt, file3.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt"
-est,"file2.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
-eu,"file2.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-leo,file2.txt,G:\Coding\Python\Inverted Index\text-files\file2.txt
-maximus,file2.txt,G:\Coding\Python\Inverted Index\text-files\file2.txt
-ornare,"file2.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-quisque,file2.txt,G:\Coding\Python\Inverted Index\text-files\file2.txt
-gravida,"file2.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
-vitae,"file2.txt, file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-diam,"file2.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-massa,"file2.txt, file3.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt"
-laoreet,"file2.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
-mattis,"file2.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
-tellus,"file2.txt, file3.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt"
 nibh,"file2.txt, file3.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
-nisl,"file2.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-varius,file2.txt,G:\Coding\Python\Inverted Index\text-files\file2.txt
-duis,"file2.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-feugiat,"file2.txt, file3.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt"
 libero,"file2.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-et,file2.txt,G:\Coding\Python\Inverted Index\text-files\file2.txt
+leo,file2.txt,G:\Coding\Python\Inverted Index\text-files\file2.txt
 ultricies,"file2.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-finibus,"file3.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
-proin,file3.txt,G:\Coding\Python\Inverted Index\text-files\file3.txt
-placerat,"file3.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
-metus,"file3.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
-cursus,file3.txt,G:\Coding\Python\Inverted Index\text-files\file3.txt
-eget,"file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-iaculis,"file3.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-quis,"file3.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-neque,file3.txt,G:\Coding\Python\Inverted Index\text-files\file3.txt
-phasellus,"file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-ullamcorper,"file3.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-tristique,file3.txt,G:\Coding\Python\Inverted Index\text-files\file3.txt
-aliquam,"file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-commodo,"file3.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
-magna,"file3.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
-at,"file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-justo,"file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-id,"file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-non,"file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-curabitur,file3.txt,G:\Coding\Python\Inverted Index\text-files\file3.txt
-vulputate,"file3.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-eros,"file3.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-turpis,"file3.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
+vehicula,"file2.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+orci,"file2.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+interdum,"file2.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+sollicitudin,"file2.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
+erat,"file2.txt, file3.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt"
+efficitur,"file2.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+imperdiet,"file2.txt, file3.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt"
+gravida,"file2.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
+ex,"file2.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
+feugiat,"file2.txt, file3.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt"
+fermentum,"file2.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+lobortis,"file2.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
+nullam,"file2.txt, file3.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt"
+laoreet,"file2.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
+sapien,"file2.txt, file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+maximus,file2.txt,G:\Coding\Python\Inverted Index\text-files\file2.txt
+pellentesque,"file2.txt, file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+et,file2.txt,G:\Coding\Python\Inverted Index\text-files\file2.txt
+mattis,"file2.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
+bibendum,"file2.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
+nisl,"file2.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+porta,"file2.txt, file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+quisque,file2.txt,G:\Coding\Python\Inverted Index\text-files\file2.txt
+vitae,"file2.txt, file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+pharetra,"file2.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+diam,"file2.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file2.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
 morbi,"file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-blandit,"file3.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-faucibus,"file3.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-donec,file3.txt,G:\Coding\Python\Inverted Index\text-files\file3.txt
-rutrum,"file3.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
+magna,"file3.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
+tristique,file3.txt,G:\Coding\Python\Inverted Index\text-files\file3.txt
+justo,"file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
 fringilla,file3.txt,G:\Coding\Python\Inverted Index\text-files\file3.txt
+non,"file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+cursus,file3.txt,G:\Coding\Python\Inverted Index\text-files\file3.txt
+quis,"file3.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+metus,"file3.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
 mi,"file3.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-sem,file4.txt,G:\Coding\Python\Inverted Index\text-files\file4.txt
+eget,"file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+vulputate,"file3.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+placerat,"file3.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
+id,"file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+eros,"file3.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+proin,file3.txt,G:\Coding\Python\Inverted Index\text-files\file3.txt
+commodo,"file3.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
+at,"file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+rutrum,"file3.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
+aliquam,"file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+neque,file3.txt,G:\Coding\Python\Inverted Index\text-files\file3.txt
+turpis,"file3.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
+finibus,"file3.txt, file4.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt"
+ullamcorper,"file3.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+phasellus,"file3.txt, file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+faucibus,"file3.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+curabitur,file3.txt,G:\Coding\Python\Inverted Index\text-files\file3.txt
+iaculis,"file3.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+donec,file3.txt,G:\Coding\Python\Inverted Index\text-files\file3.txt
+blandit,"file3.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file3.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
 vel,"file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-vestibulum,file4.txt,G:\Coding\Python\Inverted Index\text-files\file4.txt
-pulvinar,"file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-ac,file4.txt,G:\Coding\Python\Inverted Index\text-files\file4.txt
-nisi,"file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
-luctus,file4.txt,G:\Coding\Python\Inverted Index\text-files\file4.txt
 ultrices,file4.txt,G:\Coding\Python\Inverted Index\text-files\file4.txt
-vivamus,file4.txt,G:\Coding\Python\Inverted Index\text-files\file4.txt
+luctus,file4.txt,G:\Coding\Python\Inverted Index\text-files\file4.txt
+sem,file4.txt,G:\Coding\Python\Inverted Index\text-files\file4.txt
+nisi,"file4.txt, file5.txt","G:\Coding\Python\Inverted Index\text-files\file4.txt, G:\Coding\Python\Inverted Index\text-files\file5.txt"
+vestibulum,file4.txt,G:\Coding\Python\Inverted Index\text-files\file4.txt
 convallis,file4.txt,G:\Coding\Python\Inverted Index\text-files\file4.txt
+ac,file4.txt,G:\Coding\Python\Inverted Index\text-files\file4.txt
+pulvinar,file4.txt,G:\Coding\Python\Inverted Index\text-files\file4.txt
+vivamus,file4.txt,G:\Coding\Python\Inverted Index\text-files\file4.txt
 augue,file5.txt,G:\Coding\Python\Inverted Index\text-files\file5.txt
-etiam,file5.txt,G:\Coding\Python\Inverted Index\text-files\file5.txt
-risus,file5.txt,G:\Coding\Python\Inverted Index\text-files\file5.txt
 praesent,file5.txt,G:\Coding\Python\Inverted Index\text-files\file5.txt
-facilisis,file5.txt,G:\Coding\Python\Inverted Index\text-files\file5.txt
-euismod,file5.txt,G:\Coding\Python\Inverted Index\text-files\file5.txt
-ante,file5.txt,G:\Coding\Python\Inverted Index\text-files\file5.txt
-hac,file5.txt,G:\Coding\Python\Inverted Index\text-files\file5.txt
-habitasse,file5.txt,G:\Coding\Python\Inverted Index\text-files\file5.txt
 platea,file5.txt,G:\Coding\Python\Inverted Index\text-files\file5.txt
+risus,file5.txt,G:\Coding\Python\Inverted Index\text-files\file5.txt
 dictumst,file5.txt,G:\Coding\Python\Inverted Index\text-files\file5.txt
+pulvinaegestasr,file5.txt,G:\Coding\Python\Inverted Index\text-files\file5.txt
+habitasse,file5.txt,G:\Coding\Python\Inverted Index\text-files\file5.txt
+facilisis,file5.txt,G:\Coding\Python\Inverted Index\text-files\file5.txt
+hac,file5.txt,G:\Coding\Python\Inverted Index\text-files\file5.txt
 pretium,file5.txt,G:\Coding\Python\Inverted Index\text-files\file5.txt
+ante,file5.txt,G:\Coding\Python\Inverted Index\text-files\file5.txt
+etiam,file5.txt,G:\Coding\Python\Inverted Index\text-files\file5.txt
+euismod,file5.txt,G:\Coding\Python\Inverted Index\text-files\file5.txt
